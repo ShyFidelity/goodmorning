@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/goodmorning/static/css/main.f855e6bc.css",
-    "main.js": "/goodmorning/static/js/main.f7735923.js",
+    "main.css": "/goodmorning/static/css/main.8d6e2a66.css",
+    "main.js": "/goodmorning/static/js/main.acd532e3.js",
     "static/js/453.ed3810f9.chunk.js": "/goodmorning/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/goodmorning/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/orog.png": "/goodmorning/static/media/orog.ee0eaaa4216a34f3f8b6.png",
+    "static/media/weatherSS.png": "/goodmorning/static/media/weatherSS.06f4630a5ada48bd978d.png",
+    "static/media/saturn.png": "/goodmorning/static/media/saturn.bb5df6264b38f39272d6.png",
+    "static/media/callivy.svg": "/goodmorning/static/media/callivy.f7292b76cc64e707fa16d1e5e38814cf.svg",
+    "static/media/emailme.svg": "/goodmorning/static/media/emailme.e0707ef93f1db62626b8a68fb434d4f2.svg",
+    "static/media/ivygoing.png": "/goodmorning/static/media/ivygoing.064690963b9bf3ff6142.png",
+    "static/media/FitzMauriceJillian_Resume.pdf": "/goodmorning/static/media/FitzMauriceJillian_Resume.876cdb549e8185153bcd.pdf",
+    "static/media/gallerymodern-webfont.ttf": "/goodmorning/static/media/gallerymodern-webfont.68243cee5a09484fd476.ttf",
+    "static/media/totosmall.png": "/goodmorning/static/media/totosmall.ac7fd335ef659dfea288.png",
+    "static/media/LVSHAPES.svg": "/goodmorning/static/media/LVSHAPES.630a8d5757e0e7f0ea57fa25b5681e78.svg",
+    "static/media/howdyhat.svg": "/goodmorning/static/media/howdyhat.07ef67901a95933ed210ab3232eae22d.svg",
+    "static/media/github-brands.svg": "/goodmorning/static/media/github-brands.e2f073269da5b56e82387b15c3b59f5a.svg",
     "index.html": "/goodmorning/index.html",
-    "main.f855e6bc.css.map": "/goodmorning/static/css/main.f855e6bc.css.map",
-    "main.f7735923.js.map": "/goodmorning/static/js/main.f7735923.js.map",
+    "main.8d6e2a66.css.map": "/goodmorning/static/css/main.8d6e2a66.css.map",
+    "main.acd532e3.js.map": "/goodmorning/static/js/main.acd532e3.js.map",
     "453.ed3810f9.chunk.js.map": "/goodmorning/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.f7735923.js"
+    "static/css/main.8d6e2a66.css",
+    "static/js/main.acd532e3.js"
   ]
 }
